@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="39">
+	<author>Ls-Modcompany - kevink98/Eribus</author>
+    <version>1.0.0.0</version>
+    <title>
+        <en>MpManagementModul - GasStationExtended</en>
+    </title>
+    <description>
+        <de><![CDATA[Erweiterung zum MpManagement
+
+Mit dieser Erweiterung werden Tankstellen und Tanklager unterstützt, die das GasStationExtended-Script verwenden. 
+
+Dieses Script ist unbedingt notwending wenn das Script auf der Map verbaut ist!]]></de>
+		<en><![CDATA[MpManagement-Extension
+
+This extension supports gas stations and tanks that use the GasStationExtended script.
+
+This script is absolutely necessary if the script is installed on the map!]]></en>
+    </description>
+    <iconFilename>mpManagerModul.dds</iconFilename>
+    <multiplayer supported="true"/>
+	<extraSourceFiles>	
+		<sourceFile filename="mpManagerModul.lua" /> 
+	</extraSourceFiles>
+</modDesc>
